@@ -8,13 +8,16 @@ Storagetray to mount Powerextra Charger and two NP FW50 on a Ikea Skadis Pegboar
 
 
 ## 📝 Description
-*(Paste your full description from MakerWorld/Printables here. You can use an online HTML-to-Markdown converter if copying directly from the web.)*
+Storagetray to mount Powerextra Charger and two NP FW50 on a Ikea Skadis Pegboard.
+Print with 0.20mm layer height, support, and improved strength by using 4 walls and 15% infill density.
 
 ## 🖨️ Print Settings
-- **Material:** [e.g. PLA]
-- **Layer Height:** [e.g. 0.2mm]
-- **Infill:** [e.g. 15%]
-- **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
+- **Material:** PLA
+- **Layer Height:** 0.2mm
+- **Infill:** 15%
+- **Walls:** 4
+- **Supports:** Yes
+- **Nozzle:** 0.4mm
+- **Approx. Print Time:** 50 min
+- **Approx. Material Usage:** 30 g
+- **Compatible Printers:** A1 mini, P1S, P1P, X1, X1 Carbon, X1E, A1, H2D, H2D Pro, H2S, P2S, H2C

@@ -8,13 +8,20 @@ Simple brackets for mounting an external monitor PSU (Samsung Bn44-00989a) to th
 
 
 ## 📝 Description
-*(Paste your full description from MakerWorld/Printables here. You can use an online HTML-to-Markdown converter if copying directly from the web.)*
+Simple brackets for mounting an external monitor PSU to the wall or under a desk.
+
+The PSU this was modelled for came with two of my monitors, both Samsung c24f396fhr (24inch curved 1080p displays).
+
+This is designed for Samsung Bn44-00989a. There might others that fit. The PSU dimensions are roundabout 32x72x62mm.
+
+One of them is already 2 year in usage and another one for more than one year. I printed it in PLA and for me it worked fine.
 
 ## 🖨️ Print Settings
-- **Material:** [e.g. PLA]
-- **Layer Height:** [e.g. 0.2mm]
-- **Infill:** [e.g. 15%]
-- **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
+- **Material:** PLA
+- **Layer Height:** 0.2mm
+- **Infill:** 15%
+- **Walls:** 3
+- **Supports:** No
+- **Nozzle:** 0.4mm
+- **Approx. Print Time on Bambulab A1 Mini:** 1.6 h
+- **Approx. Material Usage:** 62 g

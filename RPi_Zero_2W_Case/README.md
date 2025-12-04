@@ -8,13 +8,25 @@ Snap-in-case and stand for Raspberry Pi Zero (W) and Zero 2 (W)
 
 
 ## 📝 Description
-*(Paste your full description from MakerWorld/Printables here. You can use an online HTML-to-Markdown converter if copying directly from the web.)*
+The case is based on the Raspberry Pi Zero W Snap-In Case Remix of Bigjeffrey. - https://www.thingiverse.com/thing:3859266 https://www.thingiverse.com/bigjeffrey/designs
+
+I modded it and designed a stand for it.
+
+The V1 stand is friction fitted and I haven't tested the V2 yet.
+
+If you want to use a heatsink, I would recommend installing it after the RPi is inserted into the case, otherwise you may have problems closing the case.
+
+I have tested it with RPi Zero and Zero 2. Both fit great in the case.
+If you want to use a Raspberry Pi Camera (V. 1.3, V. 2 or HQ) it should work fine. But I have tested it only with the V. 1.3.
 
 ## 🖨️ Print Settings
-- **Material:** [e.g. PLA]
-- **Layer Height:** [e.g. 0.2mm]
-- **Infill:** [e.g. 15%]
-- **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
+- **Material:** PLA
+- **Layer Height:**
+    - Case: 0.2mm
+    - Stand: 0.3mm
+- **Infill:** 15% (with grid pattern for standard profile)
+- **Walls:** 2
+- **Supports:** No (typically none, based on print profile details and description)
+- **Nozzle:** 0.4mm
+- **Approx. Print Time on Bambulab A1 Mini:** 2.8 h
+- **Approx. Material Usage:** 51 g
