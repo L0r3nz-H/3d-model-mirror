@@ -8,10 +8,18 @@ Gathers Euro coins of 50 cents, 1 euro, and 2 euros into a condensed form.
 
 
 ## 📝 Description
-*(Paste your full description from MakerWorld/Printables here. You can use an online HTML-to-Markdown converter if copying directly from the web.)*
+I couldn't find any existing models that perfectly fitted my needs (collecting coins from 50 cents to 2 euros and were not too bulky), so I designed my own model.
+Feel free to customize the dimensions (or anything else) to better suit your preferences.
+The Fusion360 file is provided for your convenience.
+
+It is completely modeled from scratch, but the design inspiration is from [loetkolben82](https://www.printables.com/@loetkolben82) with [his Euro Coin Collector](https://www.printables.com/model/545534-euro-coin-collector).
 
 ## 🖨️ Print Settings
-- **Material:** [e.g. PLA]
-- **Layer Height:** [e.g. 0.2mm]
-- **Infill:** [e.g. 15%]
-- **Supports:** [Yes/No]
+- **Material:** PLA
+- **Layer Height:** 0.2mm
+- **Infill:** 15%
+- **Walls:** 2
+- **Supports:** No
+- **Nozzle:** 0.4mm
+- **Approx. Print Time on Bambulab A1 Mini:** 50 min
+- **Approx. Material Usage:** 23 g
