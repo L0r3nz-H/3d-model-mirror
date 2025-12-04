@@ -15,6 +15,3 @@ Gathers Euro coins of 50 cents, 1 euro, and 2 euros into a condensed form.
 - **Layer Height:** [e.g. 0.2mm]
 - **Infill:** [e.g. 15%]
 - **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*

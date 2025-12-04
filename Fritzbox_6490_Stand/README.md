@@ -18,7 +18,5 @@ This stand is based on [Fritzbox 6490 "feet"](https://www.thingiverse.com/thing:
 - **Layer Height:** [0.3mm]
 - **Infill:** [15%]
 - **Supports:** [Yes]
-- ****
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
+- **Printing time on Prusa MK3S:**[5h 1min]
+- **Filament usage:**[102g]

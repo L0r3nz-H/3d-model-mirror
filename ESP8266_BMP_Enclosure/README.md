@@ -14,6 +14,3 @@ A case to house an ESP8266 NodeMCU and a BMP180 or BMP280 sensor.
 - **Layer Height:** [e.g. 0.2mm]
 - **Infill:** [e.g. 15%]
 - **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*

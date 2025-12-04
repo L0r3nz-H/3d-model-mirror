@@ -15,6 +15,3 @@ A holder for an Apple AirTag that can be mounted using zip ties.
 - **Layer Height:** [e.g. 0.2mm]
 - **Infill:** [e.g. 15%]
 - **Supports:** [Yes/No]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
