@@ -12,6 +12,3 @@ Have you ever wanted to attach your iPhone 6/6S/7/8/SE2020/SE2022 to a laptop or
 For Continuity Camera, Camo app and other webcam phone utilities.
 
 No MagSafe needed and compatible with older devices.
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
