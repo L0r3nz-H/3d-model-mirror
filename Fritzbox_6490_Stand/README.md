@@ -14,9 +14,9 @@ It should be also compatible with Fritzbox 7490 and others, that are identical i
 This stand is based on [Fritzbox 6490 "feet"](https://www.thingiverse.com/thing:990085) from m4uli on Thingiverse, but this raises the Router not that high and is based on two small feet. For me, it wasn't rigid enough, so I made many changes to it.
 
 ## 🖨️ Print Settings
-- **Material:** [PLA]
-- **Layer Height:** [0.3mm]
-- **Infill:** [15%]
-- **Supports:** [Yes]
-- **Printing time on Prusa MK3S:**[5h 1min]
-- **Filament usage:**[102g]
+- **Material:** PLA
+- **Layer Height:** 0.3mm
+- **Infill:** 15%
+- **Supports:** Yes
+- **Printing time on Prusa MK3S:** 5h 1min
+- **Filament usage:** 102g

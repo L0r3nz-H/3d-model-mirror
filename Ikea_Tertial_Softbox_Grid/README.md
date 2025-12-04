@@ -7,7 +7,7 @@ A softbox adapter for the popular Ikea Tertial lamp.
 
 
 ## 🖨️ Print Settings
-- **Material:** [PLA]
-- **Layer Height:** [0.35mm]
-- **Filament usage:**[102g]
-- **Printing time on Anycubic I3 Mega S:**[5h 28m]
+- **Material:** PLA
+- **Layer Height:**  0.35mm
+- **Filament usage:** 102g
+- **Printing time on Anycubic I3 Mega S:** 5h 28m

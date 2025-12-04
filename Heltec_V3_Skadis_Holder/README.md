@@ -20,9 +20,9 @@ This custom 3D-printed mount is designed specifically for the Heltec V3 board ru
 - Supports: Supports are required for the pegs
 
 ## 🖨️ Print Settings
-- **Material:** [PLA]
-- **Layer Height:** [0.2mm]
-- **Infill:** [15%]
-- **Supports:** [Yes]
-- **Filament usage:**[8g]
-- **Printing time on Bambulab P1S:**[24min]
+- **Material:** PLA
+- **Layer Height:** 0.2mm
+- **Infill:** 15%
+- **Supports:** Yes
+- **Filament usage:** 8g
+- **Printing time on Bambulab P1S:** 24min
