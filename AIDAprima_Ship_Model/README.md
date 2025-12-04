@@ -8,10 +8,20 @@ A 3D model of the AIDAprima cruise ship.
 
 
 ## 📝 Description
-*(Paste your full description from MakerWorld/Printables here. You can use an online HTML-to-Markdown converter if copying directly from the web.)*
+A 3d printable Model of the AIDAprima.
+
+It is optimized for printing at a smaller scale, for example with a length of 12cm.
+
+I wouldn't advise that you use supports for the upper part.
+
+Remix based on a [SketchUp model](https://3dwarehouse.sketchup.com/model/0567178c-412b-450f-94c5-e653bf8b172d/AIDAprima).
 
 ## 🖨️ Print Settings
-- **Material:** [e.g. PLA]
-- **Layer Height:** [e.g. 0.2mm]
-- **Infill:** [e.g. 15%]
-- **Supports:** [Yes/No]
+- **Material:** PLA
+- **Layer Height:** 0.2mm
+- **Infill:** 15%
+- **Walls:** 2
+- **Supports:** No (not advised for the upper part)
+- **Nozzle:** 0.4mm
+- **Approx. Print Time:** 1 h
+- **Approx. Material Usage:** 17 g
