@@ -73,13 +73,6 @@ A softbox adapter for the popular Ikea Tertial lamp.
 
 ---
 
-### 📂 [Minimalist Skadis Mouse Display](./Skadis_Mouse_Display/README.md)
-A minimalist display holder for a computer mouse, compatible with Ikea Skadis pegboards.
-
-- [Printables](https://www.printables.com/model/470614-minimalist-skadis-mouse-display)
-
----
-
 ### 📂 [Heltec V3 Skadis Holder](./Heltec_V3_Skadis_Holder/README.md)
 This custom 3D-printed mount is designed specifically for the Heltec V3 board running Meshtastic.
 

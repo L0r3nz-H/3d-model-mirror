@@ -8,7 +8,7 @@ Snap-in-case and stand for Raspberry Pi Zero (W) and Zero 2 (W)
 
 
 ## 📝 Description
-The case is based on the Raspberry Pi Zero W Snap-In Case Remix of Bigjeffrey. - https://www.thingiverse.com/thing:3859266 https://www.thingiverse.com/bigjeffrey/designs
+The case is based on the [Raspberry Pi Zero W Snap-In Case Remix](https://www.thingiverse.com/thing:3859266) of [Bigjeffrey](https://www.thingiverse.com/bigjeffrey/designs).
 
 I modded it and designed a stand for it.
 
@@ -26,7 +26,7 @@ If you want to use a Raspberry Pi Camera (V. 1.3, V. 2 or HQ) it should work fin
     - Stand: 0.3mm
 - **Infill:** 15% (with grid pattern for standard profile)
 - **Walls:** 2
-- **Supports:** No (typically none, based on print profile details and description)
+- **Supports:** No
 - **Nozzle:** 0.4mm
-- **Approx. Print Time on Bambulab A1 Mini:** 2.8 h
-- **Approx. Material Usage:** 51 g
+- **Approx. Print Time on Bambulab A1 Mini:** 2.8 h - this includes all variants
+- **Approx. Material Usage:** 51 g - this includes all variants

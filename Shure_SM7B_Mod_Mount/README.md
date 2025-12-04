@@ -4,6 +4,7 @@ A mounting solution for a DIY modification of the Shure SM7B microphone.
 
 ## 🔗 Project Links
 - [📍 View on MakerWorld](https://makerworld.com/en/models/811484)
+- [📍 View on Printables](https://www.printables.com/model/252863-mount-for-diy-shure-sm7b-mod)
 
 
 ## 📝 Description
@@ -25,6 +26,3 @@ The rest of the body can be found as a free download on [camerafoundry](https://
 - **Supports:** [Yes]
 - **Time needed:** [36m]
 - **Filament usage:** [11g]
-
-## 📂 Files
-*(Place your .stl, .3mf, and .step files in this folder)*
