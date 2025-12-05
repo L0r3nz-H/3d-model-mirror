@@ -1,6 +1,6 @@
 # My 3D Print Archive
 
-A collection of my 3D designs backed up from MakerWorld and Printables.
+A collection of my 3D designs backed up from [MakerWorld](https://makerworld.com/en/@lorenzh) and [Printables](https://www.printables.com/@LorenzH).
 
 ## 👤 My Profiles
 - [MakerWorld @lorenzh](https://makerworld.com/en/@lorenzh)
